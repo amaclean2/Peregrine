@@ -1,0 +1,14 @@
+{
+  "name": "peregrine",
+  "version": "1.0.0",
+  "description": "Peregrine's take-home prompt",
+  "main": "index.js",
+  "scripts": {
+    "aggregate": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.1.1"
+  }
+}
